@@ -1,0 +1,4 @@
+api-key-chat-gpt.txt
+*.xlsx
+/venv
+*.env
